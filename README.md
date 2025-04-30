@@ -1,4 +1,4 @@
-# ☁️ Computação em Nuvem: Resumo Detalhado + Implementação com Azure
+# ☁️ Computação em Nuvem Azure
 
 ## 🧠 O que é Computação em Nuvem?
 
